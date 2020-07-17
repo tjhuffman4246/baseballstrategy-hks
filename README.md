@@ -25,3 +25,7 @@ Dr. Thaler's 2000 paper on the tendency of coaches in professional sports to avo
 ## Tables
 
 Run expectancy and win probability tables, constructed using the `gt` package and information from Baseball Prospectus and FanGraphs.
+
+## THuffman_AveryLitReview.docx
+
+The beginning of a more thorough literature review on the subject of the sacrifice bunt and stolen bases.
