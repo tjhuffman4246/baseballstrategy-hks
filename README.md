@@ -16,7 +16,7 @@ Assorted plots from `THuffman_BuntSBResearch.R`. The two used at SSAC20 are `Sac
 
 ## SUDDEN DEATH AVERSION.pdf
 
-Dr. Thaler's 2000 paper on the tendency of coaches in professional sports to avoid the immediate high-risk scenario in favor of a delayed decision point that brings lessened possibility of success.
+Dr. Thaler's 2000 paper on the tendency of coaches in professional sports to avoid the immediate high-risk scenario in favor of a delayed decision point that brings reduced probability of success.
 
 ## Tables
 
