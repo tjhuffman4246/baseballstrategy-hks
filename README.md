@@ -4,15 +4,11 @@ A collection of research on the evolution of MLB strategy, particularly sacrific
 
 ## Code
 
-Two R files for research. `THuffman_BuntSBResearch.R` contains code for simple data summary graphs, as well as the more detailed charts on baseball's strateigc shifts. `THuffman_RETables.R` contains some unused code for win probability and instead creates some run expectancy and win probability tables.
+Two R files for research. `THuffman_BuntSBResearch.R` contains code for simple data summary graphs, as well as the more detailed charts on baseball's strategic shifts. `THuffman_RETables.R` contains some unused code for win probability and instead creates some run expectancy and win probability tables.
 
 ## Data
 
 `AllData.csv` is the most important file of the three and contains relevant information of sacrifice bunt and stolen base attempts since 1974. The other two files are used in `THuffman_RETables.R` for construct RE and WP tables.
-
-## download.folder
-
-Data for currently-unused code in `THuffman_RETables.R`.
 
 ## Plots
 
@@ -24,8 +20,4 @@ Dr. Thaler's 2000 paper on the tendency of coaches in professional sports to avo
 
 ## Tables
 
-Run expectancy and win probability tables, constructed using the `gt` package and information from Baseball Prospectus and FanGraphs.
-
-## THuffman_AveryLitReview.docx
-
-The beginning of a more thorough literature review on the subject of the sacrifice bunt and stolen bases.
+Run expectancy and win probability tables, constructed using the `gt` package and information from Baseball Prospectus and FanGraphs. 
