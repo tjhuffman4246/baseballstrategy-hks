@@ -8,7 +8,7 @@ Two R files for research. `THuffman_BuntSBResearch.R` contains code for simple d
 
 ## Data
 
-`AllData.csv` is the most important file of the three and contains relevant information of sacrifice bunt and stolen base attempts since 1974. The other two files are used in `THuffman_RETables.R` for construct RE and WP tables.
+`AllData.csv` is the most important file of the three and contains relevant information of sacrifice bunt and stolen base attempts since 1974. The other two files are used in `THuffman_RETables.R` for construct RE and WP tables. Within this folder is the subfolder `Full`, which contains play-by-play data since 1974, as well as yearly rosters.
 
 ## Plots
 
